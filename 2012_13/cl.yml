@@ -1,0 +1,56 @@
+#######################################
+# CONCACAF Champions League 2012/13
+
+league: america.cl
+season: 2012/13
+start_at: 2012-07-31
+
+
+fixtures:
+- cl
+- cl_finals
+
+#########
+# 24 teams (from 11 associations)
+
+
+teams:
+## North America (9 teams)
+# -- 4 Mexico
+- tigres
+- santos
+- chivas
+- monterrey
+# -- 4 United States
+- galaxy
+- seattle
+- houston
+- saltlake
+# -- 1 Canada
+- toronto
+## Central America (12 teams)
+# -- 3 El Salvador
+- metapan
+- aguila
+- fas
+# -- 2 Costa Rica
+- alajuelense
+- herediano
+# -- 2 Honduras
+- olimpia
+- marathon
+# -- 2 Guatemala
+- municipal
+- xelaju
+# -- 2 Panama
+- chorrillo
+- tauro
+# -- 1 Nicaragua
+- esteli
+## Caribbean (2 teams)
+# -- 2 Trinidad and Tobago
+- caledonia
+- wconnection
+# -- 1 Puerto Rico
+- puertorico
+

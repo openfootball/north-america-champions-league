@@ -1,0 +1,38 @@
+#######################################
+# CONCACAF Champions League 2011/12
+
+league: america.cl
+season: 2011/12
+start_at: 2011-07-26
+
+fixtures:
+- cl
+- cl_finals
+
+
+teams:
+# -- Mexico
+- monterrey
+- pumas
+- santos
+- morelia
+# -- United States
+- galaxy
+- colorado
+- dallas
+- seattle
+# -- Canada
+- toronto
+# -- Honduras
+- espana
+- motagua
+# -- Costa Rica
+- alajuelense
+- herediano
+# -- Guatemala
+- comunicaciones
+# -- El Salvador
+- metapan
+# -- Panama
+- tauro
+
