@@ -12,12 +12,12 @@ start_at: 2013-08-06
 teams:
 ## North America (9 teams)
 # -- 4 Mexico
-- tijuana   
-- toluca  
+- tijuana
+- toluca
 - america
 - cruzazul
 # -- 4 United States
-- galaxy    
+- galaxy
 - sanjose
 - houston
 - kansascity
