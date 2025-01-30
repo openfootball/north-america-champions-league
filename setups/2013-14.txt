@@ -1,5 +1,0 @@
-## leagues
-north-america-champions-league!/leagues
-
-## fixtures
-north-america-champions-league!/2013_14/cl
